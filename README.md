@@ -1,6 +1,6 @@
 Verify emails that are associated with Gmail by cross-checking with Gmails sign-up page. This only works for emails with an @gmail.com domain.
 Each line on the text file must contain ONE email, and it cannot contain the @gmail.com ending.
-
+\n
 Example of a good text file:
 danny12
 amandaobrien
